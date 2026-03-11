@@ -1,6 +1,6 @@
 # ¡Hola! Soy Diego 👋 
 
-### Desarrollador de Software | Estudiante de Enfermería | Graduado TREPH 🚑
+### Desarrollador de Software
 
 Soy un desarrollador **autodidacta** apasionado por construir soluciones funcionales y eficientes. Mi enfoque principal es crear software que resuelva problemas reales, optimizando recursos y garantizando la compatibilidad.
 
