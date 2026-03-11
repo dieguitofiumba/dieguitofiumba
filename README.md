@@ -41,8 +41,8 @@ Soy un desarrollador **autodidacta** apasionado por construir soluciones funcion
 ## 🚀 Proyectos Destacados
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| [EasyReg](link) | Sistema de gestión escolar y matriculación desarrollado en Java, enfocado en ligereza y compatibilidad con sistemas antiguos.| Java, SQLite, FlatLaf |
-| [EasyCount](link) | Aplicación de finanzas personales construida con el stack Electron + React + SQLite. | Electron, React, SQLite |
+| **EasyReg** | Sistema de gestión escolar y matriculación desarrollado en Java, enfocado en ligereza y compatibilidad con sistemas antiguos.| Java, SQLite, FlatLaf |
+| [EasyCount](https://github.com/dieguitofiumba/easy-count)| Aplicación de finanzas personales construida con el stack Electron + React + SQLite. | Electron, React, SQLite |
 
 ---
 
