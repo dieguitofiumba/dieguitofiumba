@@ -39,9 +39,10 @@ Soy un desarrollador **autodidacta** apasionado por construir soluciones funcion
 ---
 
 ## 🚀 Proyectos Destacados
-
-* **EasyReg:** Sistema de gestión escolar y matriculación desarrollado en Java, enfocado en ligereza y compatibilidad con sistemas antiguos.
-* **EasyCount:** Aplicación de finanzas personales construida con el stack Electron + React + SQLite.
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| [EasyReg](link) | Sistema de gestión escolar y matriculación desarrollado en Java, enfocado en ligereza y compatibilidad con sistemas antiguos.| Java, SQLite, FlatLaf |
+| [EasyCount](link) | Aplicación de finanzas personales construida con el stack Electron + React + SQLite. | Electron, React, SQLite |
 
 ---
 
