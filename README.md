@@ -1,6 +1,6 @@
 # ¡Hola! Soy Diego 👋 
 
-### Desarrollador de Software
+### Desarrollador de Software | Back-end & APIs
 
 Soy un desarrollador **autodidacta** apasionado por construir soluciones funcionales y eficientes. Mi enfoque principal es crear software que resuelva problemas reales, optimizando recursos y garantizando la compatibilidad.
 
@@ -13,9 +13,12 @@ Soy un desarrollador **autodidacta** apasionado por construir soluciones funcion
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
+![APIs](https://img.shields.io/badge/API-REST_Intermedio-blue?style=for-the-badge&logo=express&logoColor=green)
+> **Perfil Técnico:** Desarrollo de APIs dinámicas con **Node.js** y  **Express.js** manejo de lógica de servidor, complementado con interfaces modernas en **React**.
+> Desarrollo de software ***start-up*** usando **Electron.**
 ## 🏗️ Built on Solid Grounds (Java & Tools)
 *La base de mi ingeniería y disciplina de programación. En procreso de aprendizaje*
+> **Perfil Técnico:** Desarrollo de software robusto y ligero, de máxima compatibilidad y facil distribución para todo tipo de entornos.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -31,7 +34,7 @@ Soy un desarrollador **autodidacta** apasionado por construir soluciones funcion
 ![XFCE](https://img.shields.io/badge/XFCE-2284C2?style=for-the-badge&logo=xfce&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Legacy_Support-Windows_10-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
-> **Filosofía de desarrollo:** Programar para sistemas con recursos limitados (4GB RAM) me ha enseñado a valorar cada ciclo de CPU y cada byte de memoria.
+> **Filosofía de desarrollo:** Programar para sistemas con recursos limitados me ha enseñado a valorar cada ciclo de CPU y cada byte de memoria.
 
 ---
 
